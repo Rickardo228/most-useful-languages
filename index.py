@@ -86,7 +86,7 @@ languages_data = {
         "P": 100,       # Russia’s passport is moderate
         "C": 4,         # official in 4 countries
         "G": 2200000,   # Russia’s GDP (approx.)
-        "T": 0,        # No corresponding top–10 international arrival data found
+        "T": 8.2,        # corresponding top–10 international arrival data found
         "I": 60.66     # from Russia’s cultural influence score
     },
     "Urdu": {
